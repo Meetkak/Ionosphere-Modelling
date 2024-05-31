@@ -1,2 +1,2 @@
 # Ionosphere-Modelling
-Author :Meet Kakwani
+Author : Meet Kakwani
